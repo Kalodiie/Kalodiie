@@ -1,0 +1,6 @@
+FernandoTorres 185 77 154 0 3 0 0 0
+ThierryHenry 185 83 402 4 2 0 1 0
+ThomasMueller 186 74 299 1 3 0 1 0
+IkerCasillias 184 85 270 0 3 0 0 0
+GianluigiBuffon 190 83 46 1 0 0 0 0
+StevenGerrard 185 80 360 1 2 0 1 0
